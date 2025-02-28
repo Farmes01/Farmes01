@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Farmes01
-- 👀 I’m interested in Artificial Intelligence and Mental Health
+- 👋 Hi, I’m Mika
+- 👀 I’m interested in Mental Health
 - 🌱 I’m currently learning Computer Science in General
 - 📫 How to reach me ...
 
